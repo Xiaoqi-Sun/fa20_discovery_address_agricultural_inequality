@@ -4,7 +4,7 @@ Visit our project repo [here](https://github.com/Xiaoqi-Sun/fa20_discovery_addre
 
 ## Define the Problem
 Our research project, titled “Addressing Structural Inequality in U.S. Agricultural Higher Education: An Assessment of Pedagogical Practices and Food Systems Coursework at Land-grant Institutions ”, seeks to create the first comprehensive database of coursework content at all 114 land-grant institutions, tracking food and agricultural courses across these universities and identifying pedagogical methods and food justice content utilized and discussed in these classes.
-
+ 
 The land grant university system was established through the Morrill Act in 1862, distributing indigenous land to raise funding for these universities. There are three types of land grant universities, historically white colleges (established in 1862), historically Black colleges (1890) and Tribal colleges (1994). The project will examine how inequities within food and agriculture education in these universities perpetuate food systems injustices in the U.S. outside of the educational system.
 
 
